@@ -43,4 +43,4 @@ services:
 
 # TODO(step-5h): declare the named volume `pgdata` at the top level.
 volumes:
-  pgdata:
+  pgdata: 
